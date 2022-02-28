@@ -10,3 +10,7 @@ means it will give us "The total number of Overweight candidates are :{'Overweig
 
 
 I have used unittest for testing of this code that is in testing.py I have used 3 testcases.
+
+
+You can run code.py as
+python code.py <filename.json>
