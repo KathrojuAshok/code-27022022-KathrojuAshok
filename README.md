@@ -13,4 +13,4 @@ I have used unittest for testing of this code that is in testing.py I have used 
 
 
 You can run code.py as
-python code.py <filename.json>
+python code.py <filename.json> from commandline
